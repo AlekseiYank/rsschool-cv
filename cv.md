@@ -14,7 +14,7 @@
 
 ---
 
-## **About me:**
+### **About me:**
 Always was thinking about IT as a profession, but only 6 month ago decided to try it on practice. After analysing a lot of different paid courses, that promised to made me a 'high-level' IT-specialist in 5 month, was reccomended to try free courses in RS-School. So, now my goal is to get maksimum of knowledge and experience during this course and try to erceive a place of front-end developer. I am always focused on the result, aimed at constant developing and improvement of skills and abilities. Have analitical mind and team-working experience.
 
 ---
