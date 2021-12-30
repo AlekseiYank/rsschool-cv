@@ -1,4 +1,4 @@
-![](1614766552935.jpg)              
+![](./Images/1614766552935.jpg)              
 # Aleksei Yankovski
 
 ## **Contact information:**
