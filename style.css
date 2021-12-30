@@ -1,6 +1,91 @@
-.info {
-
+body {
+    background: url(/Images/1613764164_8-p-krasivii-fon-dlya-rezyume-8.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: white;
+}
+.wrap_page {
+    background-color: black;
+    width: 900px;
+    margin: auto;
+    border-radius: 3%;
 } 
-
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+#project {
+    text-decoration: underline;
+}
+button {
+    background-color: rgb(31, 68, 150);
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    height: 40px;
+    border-radius: 20px;
+}
+header {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    padding-top: 20px;
+    padding-left: 400px;
+}
+#foto {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+.cv_info {
+    display: flex;
+    flex-direction: row;
+}
+.mainly {
+    display: flex;
+    width: 350px;
+    flex-direction: column;
+    padding: 10px 20px 30px 30px;
+    align-content: flex-start;
+    background-color: black;
+    border-right: white solid;
+}
+.add_info {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 50px 30px 20px;
+    align-content: flex-end;
+    width: 70%;
+}
+h2 {
+    color: rgb(31, 68, 150);
+}
+#prof {
+    margin-top: 0px;
+}
 .code_example {
+    justify-content: flex-start;
+    background-color: white;
+    color: black;
+}
+#project {
+    padding-top: 20px;
+}
+footer {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    color: black;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 70px;
 }
